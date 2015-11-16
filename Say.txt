@@ -2,4 +2,6 @@ Task : say whatever
 
 Process :
 w
-...
+h
+a
+t
